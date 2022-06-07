@@ -16,7 +16,7 @@ worked all across the stack.
 I'm not really a morning person by nature, but I've been trying to be since coming to WPE. It isn't too unusual for me to be online and available
 somewhat early, but I don't really enjoy early meetings etc. I need a little time to wake up!
 
-Outside of work, I enjoy cooking. When the weather is nice (and often enough when it isn't) it is not unual for me to be outside using my grill or smoker.
+Outside of work, I enjoy cooking. When the weather is nice (and often enough when it isn't) it is not unusual for me to be outside using my grill or smoker.
 
 ## What I value
 - I like to get things done, but I sometimes feel we don't spend enough time thinking through the problem before moving on to coding. I find trying to 
